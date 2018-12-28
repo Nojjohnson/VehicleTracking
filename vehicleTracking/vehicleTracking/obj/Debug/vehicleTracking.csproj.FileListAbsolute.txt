@@ -1,0 +1,7 @@
+G:\C# Exercises\Chapter 1\vehicleTracking\vehicleTracking\obj\Debug\vehicleTracking.csprojAssemblyReference.cache
+G:\C# Exercises\Chapter 1\vehicleTracking\vehicleTracking\obj\Debug\vehicleTracking.csproj.CoreCompileInputs.cache
+G:\C# Exercises\Chapter 1\vehicleTracking\vehicleTracking\bin\Debug\vehicleTracking.exe.config
+G:\C# Exercises\Chapter 1\vehicleTracking\vehicleTracking\bin\Debug\vehicleTracking.exe
+G:\C# Exercises\Chapter 1\vehicleTracking\vehicleTracking\bin\Debug\vehicleTracking.pdb
+G:\C# Exercises\Chapter 1\vehicleTracking\vehicleTracking\obj\Debug\vehicleTracking.exe
+G:\C# Exercises\Chapter 1\vehicleTracking\vehicleTracking\obj\Debug\vehicleTracking.pdb
